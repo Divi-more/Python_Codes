@@ -48,13 +48,18 @@
 #         count += 1
 # print("Number of vowels in the text:", count)
 
-num = int(input("Enter a number: "))
+# num = int(input("Enter a number: "))
 
-if num > 1 :
-    for i in range(2, num):
-        if (num % i) == 0:
-            print(num, "is not a prime number.")
-            break
-        else:
-            print(num, "is a prime number.")
-            break
+# if num > 1 :
+#     for i in range(2, num):
+#         if (num % i) == 0:
+#             print(num, "is not a prime number.")
+#             break
+#         else:
+#             print(num, "is a prime number.")
+#             break
+
+
+#array filter
+arr = [1,2,3,4,5,6]
+print(arr)
