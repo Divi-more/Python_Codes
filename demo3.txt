@@ -1,0 +1,4 @@
+This is Python Coding.
+This is high-level programming.
+Python is also interpreted.
+Python is easy to use.
