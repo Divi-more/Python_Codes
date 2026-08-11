@@ -1,0 +1,7 @@
+Name: Divya
+Age: 20
+Marks: 85
+
+Name: a
+Age: 2
+Marks: 12
