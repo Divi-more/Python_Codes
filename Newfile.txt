@@ -1,0 +1,3 @@
+This is Python Coding.
+Python is also interpreted.
+Python is easy to use.
